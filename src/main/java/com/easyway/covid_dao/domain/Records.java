@@ -1,4 +1,4 @@
-package com.easyway.covid-dao.domain;
+package com.easyway.covid_dao.domain;
 
 import java.util.Date;
 

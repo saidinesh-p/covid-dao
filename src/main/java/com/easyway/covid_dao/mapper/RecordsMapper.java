@@ -1,6 +1,6 @@
-package com.easyway.covid-dao.mapper;
+package com.easyway.covid_dao.mapper;
 
-import com.easyway.covid-dao.domain.Records;
+import com.easyway.covid_dao.domain.Records;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;
